@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  body {
+    padding-top: 50px;
+  }
+
+  .main ,.book{
+    height: 100vh;
+    padding-top: 60px;
+  }
+  .contact{
+      padding-top: 60px;
+  }
+ 
+  .about{
+      padding: 20px 0 20px 0;
+  }
+  .book{
+      padding-bottom: 0;
+  }
+  .taa {
+    border-radius: 35px;
+  }
+
+  .fm {
+    background-color: white;
+  }
+
+  .ll {
+    background-color: white;
+  }
+
+  .mm {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .menu {
+    padding-top: 60px;
+    padding-bottom: 40px;
+  }
+  .foot{
+      margin: 0;
+      padding: 5px;
+  }
+  .ff{
+      background-color:rgb(65, 63, 65);
+      border-radius: 20px;
+      padding: 20px;
+      color: white;
+  }
+  .banner2{
+      border-radius: 10px;
+  }
+  .bttt{
+      padding-bottom: 30px;
+  }
+  .cart{
+      text-decoration: none;
+      list-style-type: none;
+      color: white;
+      
+  }
+  
+.material-symbols-outlined {
+font-variation-settings:
+'FILL' 0,
+'wght' 400,
+'GRAD' 0,
+'opsz' 48
+}
