@@ -9,8 +9,8 @@
   }
 
   .main ,.book{
-    height: 100vh;
-    padding-top: 60px;
+    /* height: 100vh; */
+    /* padding-top: 20px; */
   }
   .contact{
       padding-top: 60px;
